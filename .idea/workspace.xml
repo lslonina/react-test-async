@@ -1,21 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74518032-cd1b-4bf5-9a51-b96c1b41202b" name="Default Changelist" comment="" />
+    <list default="true" id="74518032-cd1b-4bf5-9a51-b96c1b41202b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppNavbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupEdit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupProxy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1VHj8tc8mJZcjK4nw83C5qXW2d7" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -39,7 +100,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576916759004</updated>
+      <workItem from="1576916762740" duration="8810000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="577" y="225" width="424" height="491" key="FileChooserDialogImpl" timestamp="1576921232576">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="577" y="225" width="424" height="491" key="FileChooserDialogImpl/0.27.1600.873@0.27.1600.873" timestamp="1576921232576" />
+    <state x="652" y="360" width="568" height="219" key="Github.ShareDialog" timestamp="1576957613787">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="652" y="360" width="568" height="219" key="Github.ShareDialog/0.27.1600.873@0.27.1600.873" timestamp="1576957613787" />
+    <state width="1558" height="217" key="GridCell.Tab.0.bottom" timestamp="1576957386700">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1558" height="217" key="GridCell.Tab.0.bottom/0.27.1600.873@0.27.1600.873" timestamp="1576957386700" />
+    <state width="1558" height="217" key="GridCell.Tab.0.center" timestamp="1576957386700">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1558" height="217" key="GridCell.Tab.0.center/0.27.1600.873@0.27.1600.873" timestamp="1576957386700" />
+    <state width="1558" height="217" key="GridCell.Tab.0.left" timestamp="1576957386699">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1558" height="217" key="GridCell.Tab.0.left/0.27.1600.873@0.27.1600.873" timestamp="1576957386699" />
+    <state width="1558" height="217" key="GridCell.Tab.0.right" timestamp="1576957386700">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1558" height="217" key="GridCell.Tab.0.right/0.27.1600.873@0.27.1600.873" timestamp="1576957386700" />
+    <state x="480" y="199" width="640" height="528" key="find.popup" timestamp="1576923878210">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="480" y="199" width="640" height="528" key="find.popup/0.27.1600.873@0.27.1600.873" timestamp="1576923878210" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1576917591537">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.27.1600.873@0.27.1600.873" timestamp="1576917591537" />
+    <state x="232" y="191" width="1125" height="552" key="new project wizard" timestamp="1576921382184">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="232" y="191" width="1125" height="552" key="new project wizard/0.27.1600.873@0.27.1600.873" timestamp="1576921382184" />
+    <state x="463" y="214" key="search.everywhere.popup" timestamp="1576917520968">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="463" y="214" key="search.everywhere.popup/0.27.1600.873@0.27.1600.873" timestamp="1576917520968" />
   </component>
 </project>
